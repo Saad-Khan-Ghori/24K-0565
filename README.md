@@ -1,2 +1,5 @@
-# Lab-02-Tasks
-This repository contains the tasks and solutions for Lab 2 of the Programming Fundamentals
+# Introduction
+- **Name**: Saad Khan Ghori
+- **Roll No**: 24k-0565
+- **Section** : 1K <br/><br/><br/>
+![github-logo](https://github.com/user-attachments/assets/927df460-dc00-4675-87a6-01a4ff021ff4)
